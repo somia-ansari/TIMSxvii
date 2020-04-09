@@ -41,7 +41,7 @@ marquee {
     align-items: center;
     justify-content: center;
     color: #2c3193;
-    font-size: 1.2em;
+    font-size: 0.5em;
     background-color: white;
 }
 
@@ -149,6 +149,9 @@ main {
         padding: 1.5em;
         margin: 0px;
     }
+    .school{
+        font-size: 1.2em
+    }
     #nav ul li {
         list-style-type: none;
         padding: 1.5em;
@@ -175,6 +178,9 @@ main {
         list-style-type: none;
         padding: 1.5em;
         font-size: 1.2em;
+    }
+    .school{
+        font-size: 1.2em
     }
     .contact i {
         font-size: 2em;
