@@ -53,8 +53,8 @@ marquee {
     justify-content: center;
 }
 
-.school img {
-    height: 88px;
+header img {
+    height: 55px;
 }
 
 #nav {
@@ -174,6 +174,10 @@ main {
         width: 5em;
         height: 3em;
     }
+    header img {
+        height: 85px;
+    }
+
     #nav ul li {
         list-style-type: none;
         padding: 1.5em;
